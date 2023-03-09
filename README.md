@@ -1,7 +1,5 @@
 # 📖 randman - random man page explorer
-Casually explore the various Unix tools available on your system.
-
-<br>
+Casually explore the various Unix tools available on your system 🤓
 
 ### todo
 * Option to select a specific section to explore
