@@ -1,7 +1,20 @@
 # 📖 randman - random man page explorer
 Casually explore the various Unix tools available on your system 🤓
 
-### todo
+<br>
+
+## Usage
+Make sure the file is executable
+    
+    chmod +x randman.sh
+
+Run
+
+    ./randman.sh
+
+<br>
+
+## todo
 * Option to select a specific section to explore
 * Option to display the information in a more concise manner
 * Option to select man pages in a specific locale
