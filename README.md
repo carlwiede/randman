@@ -4,7 +4,7 @@ Casually explore the various Unix tools available on your system 🤓
 <br>
 
 ## Usage
-Make sure the file is executable
+Make sure the script has execute permission
     
     chmod +x randman.sh
 
